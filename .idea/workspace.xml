@@ -96,14 +96,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="DXg" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="176" y="4" key="#Notifications" timestamp="1612784311528">
+    <state x="176" y="4" key="#Notifications" timestamp="1612784714386">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
-    <state x="176" y="4" key="#Notifications/0.0.1165.688@0.0.1165.688" timestamp="1612784311528" />
-    <state x="189" y="0" key="CommitChangelistDialog2" timestamp="1612784182323">
+    <state x="176" y="4" key="#Notifications/0.0.1165.688@0.0.1165.688" timestamp="1612784714386" />
+    <state x="189" y="0" key="CommitChangelistDialog2" timestamp="1612784659457">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
-    <state x="189" y="0" key="CommitChangelistDialog2/0.0.1165.688@0.0.1165.688" timestamp="1612784182323" />
+    <state x="189" y="0" key="CommitChangelistDialog2/0.0.1165.688@0.0.1165.688" timestamp="1612784659457" />
     <state x="364" y="87" key="FileChooserDialogImpl" timestamp="1612783507964">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
@@ -120,5 +120,9 @@
       <screen x="0" y="0" width="1165" height="688" />
     </state>
     <state x="176" y="79" key="Vcs.Push.Dialog.v2/0.0.1165.688@0.0.1165.688" timestamp="1612784633954" />
+    <state x="380" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612784722891">
+      <screen x="0" y="0" width="1165" height="688" />
+    </state>
+    <state x="380" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1165.688@0.0.1165.688" timestamp="1612784722891" />
   </component>
 </project>
