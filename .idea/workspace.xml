@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49532fa3-a39d-4a48-98d8-8e7ea9e0c4e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
@@ -48,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612782567240</updated>
-      <workItem from="1612782569804" duration="1437000" />
+      <workItem from="1612782569804" duration="2074000" />
     </task>
     <task id="LOCAL-00001" summary="DXg">
       <created>1612783577093</created>
@@ -71,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612783756597</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DXg">
+      <created>1612784182817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612784182817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,10 +96,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="DXg" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="0" key="CommitChangelistDialog2" timestamp="1612783764406">
+    <state x="176" y="4" key="#Notifications" timestamp="1612784311528">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
-    <state x="189" y="0" key="CommitChangelistDialog2/0.0.1165.688@0.0.1165.688" timestamp="1612783764406" />
+    <state x="176" y="4" key="#Notifications/0.0.1165.688@0.0.1165.688" timestamp="1612784311528" />
+    <state x="189" y="0" key="CommitChangelistDialog2" timestamp="1612784182323">
+      <screen x="0" y="0" width="1165" height="688" />
+    </state>
+    <state x="189" y="0" key="CommitChangelistDialog2/0.0.1165.688@0.0.1165.688" timestamp="1612784182323" />
     <state x="364" y="87" key="FileChooserDialogImpl" timestamp="1612783507964">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
@@ -98,9 +116,9 @@
       <screen x="0" y="0" width="1165" height="688" />
     </state>
     <state x="85" y="0" key="SettingsEditor/0.0.1165.688@0.0.1165.688" timestamp="1612783292955" />
-    <state x="176" y="79" key="Vcs.Push.Dialog.v2" timestamp="1612784007031">
+    <state x="176" y="79" key="Vcs.Push.Dialog.v2" timestamp="1612784633954">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
-    <state x="176" y="79" key="Vcs.Push.Dialog.v2/0.0.1165.688@0.0.1165.688" timestamp="1612784007031" />
+    <state x="176" y="79" key="Vcs.Push.Dialog.v2/0.0.1165.688@0.0.1165.688" timestamp="1612784633954" />
   </component>
 </project>
