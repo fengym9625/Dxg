@@ -4,6 +4,20 @@
     <list default="true" id="49532fa3-a39d-4a48-98d8-8e7ea9e0c4e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/03/03c33f55-5932-4ff7-896b-814ba3a8edb8.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/03/03c33f55-5932-4ff7-896b-814ba3a8edb8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/0c/0cbb3dbb-2a85-42a5-be21-9839611e5af7.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/0c/0cbb3dbb-2a85-42a5-be21-9839611e5af7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/13/132ded82-3e39-4e2e-bc34-fc934870f84c.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/13/132ded82-3e39-4e2e-bc34-fc934870f84c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/47/4756311b-4364-4160-bc7e-299876f49770.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/47/4756311b-4364-4160-bc7e-299876f49770.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/50/5035266c-8df3-4236-8d82-a375e97a0d9c.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/50/5035266c-8df3-4236-8d82-a375e97a0d9c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/56/564ba620-6a55-4cbe-a5a6-6fa3edd80151.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/56/564ba620-6a55-4cbe-a5a6-6fa3edd80151.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/5f/5fa0264d-acbf-4a7b-8923-c106ec3b9215.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/5f/5fa0264d-acbf-4a7b-8923-c106ec3b9215.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/66/665a0ec9-6c43-4858-974c-025514f2a0e7.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/66/665a0ec9-6c43-4858-974c-025514f2a0e7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/74/74237057-2880-4e1f-8a78-6d8ef00a1f5f.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/74/74237057-2880-4e1f-8a78-6d8ef00a1f5f.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/84/84bc9d40-83d0-480c-b46a-3ef59e603e14.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/84/84bc9d40-83d0-480c-b46a-3ef59e603e14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/8c/8c52a851-9969-4702-9997-0a2ca9f43773.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/8c/8c52a851-9969-4702-9997-0a2ca9f43773.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/ad/ad16ccdc-975e-4393-ae7b-8ac79c3795f2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/ad/ad16ccdc-975e-4393-ae7b-8ac79c3795f2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/raw-assets/d0/d0c676e4-0956-4a03-90af-fee028cfabe4.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/d0/d0c676e4-0956-4a03-90af-fee028cfabe4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/project.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +45,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -55,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612782567240</updated>
-      <workItem from="1612782569804" duration="2074000" />
+      <workItem from="1612782569804" duration="4867000" />
+      <workItem from="1612842662871" duration="1073000" />
     </task>
     <task id="LOCAL-00001" summary="DXg">
       <created>1612783577093</created>
@@ -85,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612784182817</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DXg">
+      <created>1612784659971</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612784659971</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DXg">
+      <created>1612784759552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612784759552</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,22 +129,26 @@
       <screen x="0" y="0" width="1165" height="688" />
     </state>
     <state x="176" y="4" key="#Notifications/0.0.1165.688@0.0.1165.688" timestamp="1612784714386" />
-    <state x="189" y="0" key="CommitChangelistDialog2" timestamp="1612784659457">
+    <state x="189" y="0" key="CommitChangelistDialog2" timestamp="1612784758970">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
-    <state x="189" y="0" key="CommitChangelistDialog2/0.0.1165.688@0.0.1165.688" timestamp="1612784659457" />
-    <state x="364" y="87" key="FileChooserDialogImpl" timestamp="1612783507964">
+    <state x="189" y="0" key="CommitChangelistDialog2/0.0.1165.688@0.0.1165.688" timestamp="1612784758970" />
+    <state x="364" y="87" key="FileChooserDialogImpl" timestamp="1612787530361">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
-    <state x="364" y="87" key="FileChooserDialogImpl/0.0.1165.688@0.0.1165.688" timestamp="1612783507964" />
+    <state x="364" y="87" key="FileChooserDialogImpl/0.0.1165.688@0.0.1165.688" timestamp="1612787530361" />
     <state x="408" y="259" width="373" height="171" key="Github.CreateGistDialog" timestamp="1612783247728">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
     <state x="408" y="259" width="373" height="171" key="Github.CreateGistDialog/0.0.1165.688@0.0.1165.688" timestamp="1612783247728" />
-    <state x="85" y="0" key="SettingsEditor" timestamp="1612783292955">
+    <state x="438" y="236" key="Github.ShareDialog" timestamp="1612785306717">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
-    <state x="85" y="0" key="SettingsEditor/0.0.1165.688@0.0.1165.688" timestamp="1612783292955" />
+    <state x="438" y="236" key="Github.ShareDialog/0.0.1165.688@0.0.1165.688" timestamp="1612785306717" />
+    <state x="85" y="0" key="SettingsEditor" timestamp="1612787141189">
+      <screen x="0" y="0" width="1165" height="688" />
+    </state>
+    <state x="85" y="0" key="SettingsEditor/0.0.1165.688@0.0.1165.688" timestamp="1612787141189" />
     <state x="176" y="79" key="Vcs.Push.Dialog.v2" timestamp="1612784633954">
       <screen x="0" y="0" width="1165" height="688" />
     </state>
